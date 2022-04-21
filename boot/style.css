@@ -1,0 +1,37 @@
+﻿body {
+    background-color: #fff;
+}
+.marcas{
+    background-color: #2b2b2b;
+    color: #c1c1c1;
+    font-weight: bold;
+}
+.margin{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.imgmarca {
+    padding: 0.5rem;
+    background-color:#000;
+    border: 1px solid #0000005a;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+.paragrafo {
+    padding: 10px;
+    margin: 10px;
+    color: #c1c1c1;
+    text-align: justify;
+}
+.console{
+    background-color: #4b4b4b;
+    padding-top: 25px;
+    color: #c1c1c1;
+}
+.rounded-circle{
+    background-color: #fff;
+    margin: 10px
+}
+href{
+}
